@@ -35,5 +35,5 @@ To run this notebook, you’ll need a Python environment with the required libra
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/Abinash7G/SentimentAnalysis.git>
    cd <your-repo-folder>

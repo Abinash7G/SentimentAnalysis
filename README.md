@@ -2,7 +2,7 @@
 Python || RNN || LSTM
 # Twitter Sentiment Analysis with RNN and LSTM
 
-Welcome to the **Twitter Sentiment Analysis** project! This Jupyter Notebook (`Tutorial9LSTM&RNN.ipynb`) uses Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) models to predict whether tweets about Trump are positive or negative. **Mahlai detail ma buja tw?** It’s like teaching a robot to read tweets and decide if they’re happy 😊 or critical 😣 by analyzing their words. This README will guide you through the project, from setup to running the code, so anyone can understand and use it. Tayar chau? Let’s dive in!
+Welcome to the **Twitter Sentiment Analysis** project! This Jupyter Notebook (`Tutorial9LSTM&RNN.ipynb`) uses Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) models to predict whether tweets about Trump are positive or negative.It’s like teaching a robot to read tweets and decide if they’re happy 😊 or critical 😣 by analyzing their words. This README will guide you through the project, from setup to running the code, so anyone can understand and use it. are you ready! Let’s dive in!
 
 ## 📖 Project Overview
 
@@ -14,7 +14,7 @@ We use two deep learning models:
 - **Simple RNN**: A basic recurrent network that processes text sequences but struggles with long-term dependencies.
 - **LSTM**: An advanced RNN that remembers important information over longer sequences, ideal for tweets.
 
-**Analogy**: Imagine the RNN as a short-memory reader skimming tweets, while the LSTM is a careful reader remembering key details to understand the sentiment better. The notebook preprocesses tweets, trains both models, compares their performance, and even includes a GUI to predict sentiment for new tweets. **K hudai xa garna kojya ho?** Keep reading to find out!
+**Analogy**: Imagine the RNN as a short-memory reader skimming tweets, while the LSTM is a careful reader remembering key details to understand the sentiment better. The notebook preprocesses tweets, trains both models, compares their performance, and even includes a GUI to predict sentiment for new tweets. **What is going on** Keep reading to find out!
 
 ### Key Features
 - **Dataset**: `trum_tweet_sentiment_analysis.csv` (tweets with text and sentiment labels).
